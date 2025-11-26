@@ -101,26 +101,8 @@ POST /api/generate-clips
 <h3>Environment Variables</h3>
 <pre><code>GROQ_API_KEY=your_groq_api_key
 YOUTUBE_API_KEY=optional_youtube_key
-DATABASE_URL=sqlite:///./clips.db
+DATABASE_URL=postgresDB
 </code></pre>
 
-<h2>🤝 Contributing</h2>
 
-<p>We welcome contributions! Please feel free to:</p>
-<ul>
-    <li>Submit bug reports</li>
-    <li>Suggest new features</li>
-    <li>Create pull requests</li>
-</ul>
 
-<h2>📄 License</h2>
-
-<p>This project is licensed under the MIT License.</p>
-
-<h2>📞 Support</h2>
-
-<p>For support and questions, please open an issue on GitHub or contact the development team.</p>
-
-<hr>
-
-<p><em>Built with ❤️ by ProductiveP13 Collab</em></p>
